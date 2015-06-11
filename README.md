@@ -31,9 +31,9 @@
 <p align="justify">Aby zacząć używać programu wystarczy uruchomić plik o nazwie "arkanoid.py", który dostępny jest w repozytorium. </p>
 
 1. Ściąganie repozytorium
-    git clone https://github.com/niesuch/arkanoid
+    `git clone https://github.com/niesuch/arkanoid`
 2. Uruchomenie skryptu
-    python arkanoid.py
+    `python arkanoid.py`
 3. Spróbuj wygrać :)
 
 ## Logi zmian
