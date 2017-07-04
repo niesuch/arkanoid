@@ -12,7 +12,8 @@
 6. [Prawa autorskie i licencja](https://github.com/niesuch/arkanoid#prawa-autorskie-i-licencja)
 
 ## Opis:
-<p align="justify"> Okrojona wersja gry "Arkanoid" napisana w języku Python. Posiada podstawowe funkcje takie jak: <br /></p>
+<p align="justify"> Okrojona wersja gry "Arkanoid" napisana w języku Python. Posiada podstawowe funkcje takie jak: </p>
+
 * Kontrolowanie ruchów kładki za pomocą myszy 
 * Obsługa ruchu piłeczki
 * Zbijanie celów
@@ -23,9 +24,10 @@
 
 ## Wymagane oprogramowanie
 <p align="justify">Poza małymi wymaganiami sprzętowymi, niezbędne do działania programu jest oprogramowanie wymienione poniżej: </p>
-* Dowolny system operacyjny <br>
-* Zainstalowane środowisko Pythona w wersji https://www.python.org/download/releases/2.7/ <br>
-* Zainstalowana biblioteka http://www.pygame.org/news.html <br>
+
+* Dowolny system operacyjny 
+* Zainstalowane środowisko Pythona w wersji [2.7](https://www.python.org/download/releases/2.7/)
+* Zainstalowana biblioteka [Pygame](http://www.pygame.org/news.html)
 
 ## Instalacja programu
 <p align="justify">Aby zacząć używać programu wystarczy uruchomić plik o nazwie "arkanoid.py", który dostępny jest w repozytorium. </p>
