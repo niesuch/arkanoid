@@ -23,9 +23,9 @@
 
 ## Wymagane oprogramowanie
 <p align="justify">Poza małymi wymaganiami sprzętowymi, niezbędne do działania programu jest oprogramowanie wymienione poniżej: </p>
-* Dowolny system operacyjny 
-* Zainstalowane środowisko Pythona w wersji https://www.python.org/download/releases/2.7/
-* Zainstalowana biblioteka http://www.pygame.org/news.html
+* Dowolny system operacyjny <br>
+* Zainstalowane środowisko Pythona w wersji https://www.python.org/download/releases/2.7/ <br>
+* Zainstalowana biblioteka http://www.pygame.org/news.html <br>
 
 ## Instalacja programu
 <p align="justify">Aby zacząć używać programu wystarczy uruchomić plik o nazwie "arkanoid.py", który dostępny jest w repozytorium. </p>
